@@ -101,9 +101,9 @@ html {
   text-align: center;
 }
 #home p {
-  color: white;
+  color: wheat;
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-family: "Bree serif", serif;
 }
 
@@ -228,6 +228,11 @@ footer {
   font-size: 1.5rem;
   border-radius: 10px;
   cursor: pointer;
+}
+
+.btn:hover {
+  color: black;
+  background-color: darkgray;
 }
 
 .center {
